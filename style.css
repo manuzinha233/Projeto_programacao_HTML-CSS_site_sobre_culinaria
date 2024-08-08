@@ -8,5 +8,6 @@
     align-items: center;
     padding: 50px 0;
 }
-.img1{width:50%; }
+.img1{width:50%; 
+    background: skyblue}
 img{ align-items: center;}
