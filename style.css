@@ -15,6 +15,6 @@
 #imagem { 
     height: 300px;
     width: 400px;
-    padding: 8px;
+    padding: 10px;
     margin: 1px double #307e8c;
-    border-radius: 25px;}
+    border-radius: 30px;}
