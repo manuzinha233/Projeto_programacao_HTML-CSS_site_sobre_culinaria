@@ -12,4 +12,9 @@
     margin: 0;
     padding: 0;
 }
-
+#imagem { 
+    height: 150px;
+    width: 180px;
+    padding: 8px;
+    margin: 1px double #307e8c;
+    border-radius: 25px;}
