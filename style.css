@@ -8,6 +8,10 @@
     align-items: center;
     padding: 50px 0;
 }
+*{
+    margin: 0;
+    padding: 0;
+}
 .img1{width:60%; }
 img{ align-items: center;}
 .corpo{background-color: rgb(250, 228, 199);}
