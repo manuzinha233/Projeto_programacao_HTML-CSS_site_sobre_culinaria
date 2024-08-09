@@ -12,7 +12,10 @@
     margin: 0;
     padding: 0;
 }
-.img1{width:60%; }
+.img1{
+    width:60%; 
+    height: 150px;
+}
 # img{ align-items: center;}
 .corpo{background-color: rgb(250, 228, 199);
     font-family: sans-serif;}
