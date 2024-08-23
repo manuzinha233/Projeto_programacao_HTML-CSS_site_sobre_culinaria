@@ -1,6 +1,6 @@
 
 .cabecalho {
-    background-color: #d93193;
+    background-color: #000000;
     font-size: 40;
     color: #ffffff;
     display: flex;
@@ -16,5 +16,8 @@
     height: 300px;
     width: 400px;
     padding: 10px;
-    margin: 1px double #307e8c;
-    border-radius: 30px;}
+    margin: 1px double #307e8c; 
+    border-radius: 30px;} 
+    .texto{
+
+    }
